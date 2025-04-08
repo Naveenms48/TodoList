@@ -1,0 +1,47 @@
+div{
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: 2px solid black;
+    gap: 20px;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+}
+
+#delete{
+    color: red;
+}
+
+#edit{
+    color: blue;
+}
+
+#save{
+    color: green;
+}
+
+#add{
+    color: skyblue;
+}
+
+main{
+    display: flex;
+    /* flex-direction: row; */
+    gap: 10px;
+}
+input:focus{
+    outline: none;
+
+}
