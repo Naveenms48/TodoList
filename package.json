@@ -1,5 +1,6 @@
 {
   "name": "package.json",
+  "homepage": "https://Naveenms48.github.io/TodoList",
   "private": true,
   "version": "0.0.0",
   "type": "module",
